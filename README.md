@@ -4,7 +4,7 @@ Alunos:
 Lucas Salustriano dos Santos 2021039468
 Luis Felipe Oliveira Paiva 
 
-1 - Nesse código do CRUD de produtos, foi aplicado principalmente o paradigma imperativo, porque o programa funciona em forma de passo a passo, com um menu e comandos sendo executados conforme a escolha do usuário. Isso deixa mais fácil de entender e implementar, já que cada opção (criar, listar, atualizar e deletar) segue uma sequência lógica simples.
+1. Nesse código do CRUD de produtos, foi aplicado principalmente o paradigma imperativo, porque o programa funciona em forma de passo a passo, com um menu e comandos sendo executados conforme a escolha do usuário. Isso deixa mais fácil de entender e implementar, já que cada opção (criar, listar, atualizar e deletar) segue uma sequência lógica simples.
 
 2. Também tem um pouco de ideia do paradigma funcional, porque várias funções não alteram diretamente os dados, elas recebem a lista de produtos e retornam uma nova versão dela, como no caso de adicionar, atualizar e deletar produtos. Isso ajuda a deixar o código mais organizado e evita mexer diretamente na estrutura original.
 
